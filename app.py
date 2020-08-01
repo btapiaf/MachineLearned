@@ -24,7 +24,7 @@ st.write("""
          ## ALGORITMOS DE CLASIFICACION Y REGRESION
 """)
 
-nombre_data_set = st.write("## Dataset_of_Ethnic_facial_images_of_Ecuadorian_people")
+nombre_data_set = st.write("## Dataset of Ethnic facial images of Ecuadorian people")
 
 st.write('''
          
