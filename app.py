@@ -123,7 +123,7 @@ if clasificador =='REGRESION LOGISTICA':
     acc = accuracy_score(y_test, y_predict)
     pre = precision_score(y_test, y_predict,average='macro')
     rep = classification_report(y_test, y_predict)
-    st.write(f"Clasificador = {clasificador}")
+    st.write(f"Regresion = {clasificador}")
     st.write(f"accuracy = {acc}")
     st.write(f"precision = {pre}")
     st.write(f"reporte clasificador   = {rep}")
